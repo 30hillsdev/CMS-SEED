@@ -3,8 +3,7 @@
 ._*
 /vendor
 /node_modules
-/public/themes
-!/public/themes/public
+/public/themes/
 /packages
 Homestead.json
 Homestead.yaml
