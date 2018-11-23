@@ -14,7 +14,7 @@ return [
     'name.short'     => '<b>L</b>l',
     'admin.panel'    => 'Admin Panel',
     'dashboard'      => 'Dashboard',
-    'rights'         => '<a href="https://cms_seed.org/" target="_blank">Cms_Seed</a> &copy; 2018 All Rights Reserved, Built with <a href="https://laravel.com" target="_blank"><i class="fab fa-laravel"></i></a>, Created by <a href="http://renfos.com/" target="_blank">Renfos</a>.',
+    'rights'         => '<a href="https://cms_seed.org/" target="_blank">Cms_Seed</a> &copy; 2018 All Rights Reserved, Built with <a href="https://laravel.com" target="_blank"><i class="fab fa-laravel"></i></a>, Created by <a href="http://30hills.com/" target="_blank">30Hills</a>.',
     'version'        => '<b>Version</b> Develop',
 
     'add'            => 'Add',
