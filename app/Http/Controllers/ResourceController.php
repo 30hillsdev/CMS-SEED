@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller as BaseController;
 use App\Http\Response\ResourceResponse;
-use Litepie\Theme\ThemeAndViews;
-use Litepie\User\Traits\RoutesAndGuards;
-use Litepie\User\Traits\UserPages;
+use Cms_Framework_Seed\Theme\ThemeAndViews;
+use Cms_Framework_Seed\User\Traits\RoutesAndGuards;
+use Cms_Framework_Seed\User\Traits\UserPages;
 
 class ResourceController extends BaseController
 {

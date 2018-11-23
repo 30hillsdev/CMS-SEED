@@ -4,8 +4,8 @@ namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
 use App\Http\Response\Auth\Response as AuthResponse;
-use Litepie\User\Traits\Auth\SocialAuthentication;
-use Litepie\User\Traits\RoutesAndGuards;
+use Cms_Framework_Seed\User\Traits\Auth\SocialAuthentication;
+use Cms_Framework_Seed\User\Traits\RoutesAndGuards;
 
 class SocialAuthController extends Controller
 {

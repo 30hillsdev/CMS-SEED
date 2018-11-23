@@ -2,7 +2,7 @@
 
 namespace App;
 
-use Litepie\User\Models\User as BaseUser;
+use Cms_Framework_Seed\User\Models\User as BaseUser;
 
 class User extends BaseUser
 {

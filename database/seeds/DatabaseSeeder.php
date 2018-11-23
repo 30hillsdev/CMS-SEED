@@ -14,13 +14,13 @@ class DatabaseSeeder extends Seeder
     {
         Model::unguard();
 
-        $this->call(Litepie\MenuTableSeeder::class);
-        $this->call(Litepie\UserTableSeeder::class);
-        $this->call(Litepie\RoleTableSeeder::class);
+        $this->call(Cms_Framework_Seed\MenuTableSeeder::class);
+        $this->call(Cms_Framework_Seed\UserTableSeeder::class);
+        $this->call(Cms_Framework_Seed\RoleTableSeeder::class);
 
-        $this->call(Litepie\ClientTableSeeder::class);
+        $this->call(Cms_Framework_Seed\ClientTableSeeder::class);
         $this->call(Litepie\MessageTableSeeder::class);
-        $this->call(Litepie\SettingTableSeeder::class);
+        $this->call(Cms_Framework_Seed\SettingTableSeeder::class);
         $this->call(Litepie\CalendarTableSeeder::class);
         $this->call(Litepie\TaskTableSeeder::class);
         $this->call(Litecms\BlockTableSeeder::class);

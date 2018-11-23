@@ -2,8 +2,8 @@
 
 namespace App\Http\Response;
 
-use Litepie\Http\Response as LitepieResponse;
+use Cms_Framework_Seed\Http\Response as Cms_Framework_SeedResponse;
 
-abstract class Response extends LitepieResponse
+abstract class Response extends Cms_Framework_SeedResponse
 {
 }

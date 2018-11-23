@@ -52,11 +52,11 @@ class Kernel extends HttpKernel
      */
     protected $routeMiddleware = [
 
-        'active'          => \Litepie\User\Http\Middleware\VerifyLogin::class,
+        'active'          => \Cms_Framework_Seed\User\Http\Middleware\VerifyLogin::class,
 
-        'role'            => \Litepie\Roles\Http\Middleware\VerifyRole::class,
-        'permission'      => \Litepie\Roles\Http\Middleware\VerifyPermission::class,
-        'level'           => \Litepie\Roles\Http\Middleware\VerifyLevel::class,
+        'role'            => \Cms_Framework_Seed\Roles\Http\Middleware\VerifyRole::class,
+        'permission'      => \Cms_Framework_Seed\Roles\Http\Middleware\VerifyPermission::class,
+        'level'           => \Cms_Framework_Seed\Roles\Http\Middleware\VerifyLevel::class,
 
         'auth'            => \App\Http\Middleware\Authenticate::class,
         'auth.basic'      => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,

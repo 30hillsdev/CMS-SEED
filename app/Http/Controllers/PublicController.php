@@ -3,8 +3,8 @@
 namespace App\Http\Controllers;
 
 use App\Http\Response\PublicResponse;
-use Litepie\Theme\ThemeAndViews;
-use Litepie\User\Traits\RoutesAndGuards;
+use Cms_Framework_Seed\Theme\ThemeAndViews;
+use Cms_Framework_Seed\User\Traits\RoutesAndGuards;
 
 class PublicController extends Controller
 {

@@ -4,9 +4,9 @@ namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;
 use App\Http\Response\Auth\Response as AuthResponse;
-use Litepie\Theme\ThemeAndViews;
-use Litepie\User\Traits\Auth\SendsPasswordResetEmails;
-use Litepie\User\Traits\RoutesAndGuards;
+use Cms_Framework_Seed\Theme\ThemeAndViews;
+use Cms_Framework_Seed\User\Traits\Auth\SendsPasswordResetEmails;
+use Cms_Framework_Seed\User\Traits\RoutesAndGuards;
 
 class ForgotPasswordController extends Controller
 {

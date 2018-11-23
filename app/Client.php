@@ -2,7 +2,7 @@
 
 namespace App;
 
-use Litepie\User\Models\Client as BaseClient;
+use Cms_Framework_Seed\User\Models\Client as BaseClient;
 
 class Client extends BaseClient
 {
