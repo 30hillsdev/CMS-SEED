@@ -9,7 +9,7 @@ return [
     |
     */
 
-    'name'          => 'Lava Lite',
+    'name'          => 'CMS SEED',
     'name.html'     => '<b>Lava</b>lite',
     'name.short'    => '<b>L</b>l',
     'admin.panel'   => 'لوحة اﻹدارة',

@@ -14,9 +14,9 @@
         "litecms/block": "~4.0",
         "litecms/contact": "~4.0",
         "litecms/page": "~4.0",
-        "litepie/task": "~3.0",
-        "litepie/calendar": "~3.0",
-        "litepie/message": "~3.0"
+        "cms_framework_seed/task": "~3.0",
+        "cms_framework_seed/calendar": "dev-master",
+        "cms_framework_seed/message": "~3.0"
     },
     "require-dev": {
         "filp/whoops": "~2.0",

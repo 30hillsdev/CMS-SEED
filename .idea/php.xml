@@ -44,7 +44,6 @@
       <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
       <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vendor/litepie/task" />
-      <path value="$PROJECT_DIR$/vendor/litepie/calendar" />
       <path value="$PROJECT_DIR$/vendor/mcamara/laravel-localization" />
       <path value="$PROJECT_DIR$/vendor/litepie/message" />
       <path value="$PROJECT_DIR$/vendor/laravel/socialite" />
