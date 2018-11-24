@@ -14,7 +14,7 @@
         "litecms/block": "~4.0",
         "litecms/contact": "~4.0",
         "litecms/page": "~4.0",
-        "cms_framework_seed/task": "~3.0",
+        "cms_framework_seed/task": "dev-master",
         "cms_framework_seed/calendar": "dev-master",
         "cms_framework_seed/message": "dev-master"
     },
