@@ -37,7 +37,6 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/flysystem" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/fractal" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/league/oauth1-client" />
-      <excludeFolder url="file://$MODULE_DIR$/vendor/litepie/calendar" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/litepie/message" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/litepie/task" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/maximebf/debugbar" />

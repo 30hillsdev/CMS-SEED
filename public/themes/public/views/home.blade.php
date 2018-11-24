@@ -19,16 +19,16 @@
                                 {!!Menu::menu('main')!!}
                             </ul>
                             <ul class="nav navbar-nav navbar-right hidden-sm hidden-xs">
-                                <li><a href="https://twitter.com/lavalitecms" target="_new" class="social-icons"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="https://www.facebook.com/lavalite" target="_new" class="social-icons"><i class="fa fa-facebook-square"></i></a></li>
-                                <li><a href="https://github.com/lavalite" target="_new" class="social-icons"><i class="fa fa-github"></i></a></li>
+                                <li><a href="https://twitter.com/cms_framework_seed" target="_new" class="social-icons"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="https://www.facebook.com/cms_framework_seed" target="_new" class="social-icons"><i class="fa fa-facebook-square"></i></a></li>
+                                <li><a href="https://github.com/cms_framework_seed" target="_new" class="social-icons"><i class="fa fa-github"></i></a></li>
                                 <li><a href="#" data-toggle="modal" data-target="#loginModal" class="btn">Login</a></li>
                             </ul>
                         </div>
                     </div>
                 </nav>
                 <a href="login.html" class="login_btn btn hidden-md hidden-lg">Login</a>
-                <a href="https://github.com/lavalite" target="_new" class="github_btn hidden-md hidden-lg"><i class="fa fa-github"></i></a>
+                <a href="https://github.com/cms_framework_seed" target="_new" class="github_btn hidden-md hidden-lg"><i class="fa fa-github"></i></a>
             </header>
 
             <div class="route-landing">
