@@ -16,7 +16,7 @@
         "litecms/page": "~4.0",
         "cms_framework_seed/task": "~3.0",
         "cms_framework_seed/calendar": "dev-master",
-        "cms_framework_seed/message": "~3.0"
+        "cms_framework_seed/message": "dev-master"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
