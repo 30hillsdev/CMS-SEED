@@ -23,9 +23,9 @@ class DatabaseSeeder extends Seeder
         $this->call(Cms_Framework_Seed\SettingTableSeeder::class);
         $this->call(Cms_Framework_Seed\CalendarTableSeeder::class);
         $this->call(Cms_Framework_Seed\TaskTableSeeder::class);
-        $this->call(Litecms\BlockTableSeeder::class);
-        $this->call(Litecms\ContactTableSeeder::class);
-        $this->call(Litecms\PageTableSeeder::class);
+        $this->call(Cms_Framework_Seed\BlockTableSeeder::class);
+        $this->call(Cms_Framework_Seed\ContactTableSeeder::class);
+        $this->call(Cms_Framework_Seed\PageTableSeeder::class);
 
         Model::reguard();
     }
