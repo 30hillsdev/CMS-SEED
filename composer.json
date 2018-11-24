@@ -11,9 +11,9 @@
         "laravel/tinker": "^1.0",
         "30hills/cms_framework_seed": "dev-master",
         "30hills/cms_theme_seed": "dev-master",
-        "cms_framework_seed/block": "~4.0",
-        "cms_framework_seed/contact": "~4.0",
-        "cms_framework_seed/page": "~4.0",
+        "cms_framework_seed/block": "dev-master",
+        "cms_framework_seed/contact": "dev-master",
+        "cms_framework_seed/page": "dev-master",
         "cms_framework_seed/task": "dev-master",
         "cms_framework_seed/calendar": "dev-master",
         "cms_framework_seed/message": "dev-master"
