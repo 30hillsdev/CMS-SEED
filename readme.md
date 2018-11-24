@@ -8,10 +8,20 @@ CMS SEED utilizes Composer to manage its dependencies. So, before using CMS SEED
 
 Composer Create-Project
 You may also install CMS SEED by issuing the Composer create-project command in your terminal:
-
 ```
 composer create-project 30hills/cms_seed --prefer-dist website
 ```
+######Server Requirements 
+```- PHP >= 7.1
+   - OpenSSL PHP Extension
+   - PDO PHP Extension
+   - Mbstring PHP Extension
+   - Tokenizer PHP Extension
+   - Fileinfo PHP Extension
+   - GD Library
+   - Imagick PHP Extension
+```
+
 Setup
 After creating the project move to the project root folder and run the command to set up database and configuration files.
 
