@@ -10,13 +10,13 @@ Composer Create-Project
 You may also install CMS SEED by issuing the Composer create-project command in your terminal:
 
 ```
-composer create-project cms_seed/cms --prefer-dist website
+composer create-project 30hills/cms_seed --prefer-dist website
 ```
 Setup
 After creating the project move to the project root folder and run the command to set up database and configuration files.
 
 ```
-php artisan cms_seed:install
+php artisan cms_framework_seed:install
 ```
 
 
